@@ -12,6 +12,7 @@ public class Bank {
 	public Bank(String name) {
 		this();
 		System.out.println("name"+name);
+		
 	}
-
+this();
 }
