@@ -3,7 +3,7 @@ package org.bank;
 public class Bank {
 	public Bank() {
 	
-	System.out.println("savings");
+	System.out.println("saving");
 	}
 	public Bank(int interest) {
 		
